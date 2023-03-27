@@ -2,8 +2,8 @@
 
 # Ilustracion de trabajos de Big Data en base Python 
 
-# Base:
-* Ver carpeta BASE CAMINATA DE PYTHON
+# Bases:
+* Ver carpeta BASES CAMINATA DE PYTHON
 
 ### Libros Recomendades
 
