@@ -1,9 +1,11 @@
 # Big-Data
 
-# Ilustracion de trabajos de Big Data en base Python 
+### Ilustracion de trabajos de Big Data en base Python 
 
-# Bases:
+### Bases:
 * Ver carpeta BASES CAMINATA DE PYTHON
+
+* [sentdex - nnfs](https://github.com/Sentdex/NNfSiX)
 
 ### Libros Recomendades
 
